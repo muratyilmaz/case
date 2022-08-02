@@ -14,6 +14,10 @@
                {
                   "level":3,
                   "discountedPrice":23.4525
+               },
+               {
+                  "level":4,
+                  "discountedPrice":21.4525
                }
             ]
          }
@@ -32,6 +36,10 @@
                {
                   "level":3,
                   "discountedPrice":13.4525
+               },
+               {
+                  "level":4,
+                  "discountedPrice":11.4525
                }
             ]
          }
@@ -50,6 +58,10 @@
                {
                   "level":3,
                   "discountedPrice":640
+               },
+               {
+                  "level":4,
+                  "discountedPrice":610
                }
             ]
          }
