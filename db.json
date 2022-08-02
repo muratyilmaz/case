@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "outfits":[
+      {
+         "id":3,
+         "title":"Mens Cotton Jacket",
+         "price":{
+            "currentPrice":30.95,
+            "originalPrice":55.99,
+            "discountLevels":[
+               {
+                  "level":2,
+                  "discountedPrice":28.4525
+               },
+               {
+                  "level":3,
+                  "discountedPrice":23.4525
+               }
+            ]
+         }
+      },
+      {
+         "id":4,
+         "title":"Mens Casual Slim Fit",
+         "price":{
+            "currentPrice":15.95,
+            "originalPrice":15.99,
+            "discountLevels":[
+               {
+                  "level":2,
+                  "discountedPrice":14.4525
+               },
+               {
+                  "level":3,
+                  "discountedPrice":13.4525
+               }
+            ]
+         }
+      },
+      {
+         "id":5,
+         "title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+         "price":{
+            "currentPrice":695,
+            "originalPrice":695,
+            "discountLevels":[
+               {
+                  "level":2,
+                  "discountedPrice":670
+               },
+               {
+                  "level":3,
+                  "discountedPrice":640
+               }
+            ]
+         }
+      }
+   ]
 }
