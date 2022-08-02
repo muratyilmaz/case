@@ -4,7 +4,6 @@
          "id":3,
          "title":"Mens Cotton Jacket",
          "price":{
-            "currentPrice":30.95,
             "originalPrice":55.99,
             "discountLevels":[
                {
@@ -26,7 +25,6 @@
          "id":4,
          "title":"Mens Casual Slim Fit",
          "price":{
-            "currentPrice":15.95,
             "originalPrice":15.99,
             "discountLevels":[
                {
@@ -48,7 +46,6 @@
          "id":5,
          "title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
          "price":{
-            "currentPrice":695,
             "originalPrice":695,
             "discountLevels":[
                {
