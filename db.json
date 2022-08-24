@@ -3,6 +3,7 @@
       {
          "id":3,
          "title":"Mens Cotton Jacket",
+         "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
          "price":{
             "originalPrice":55.99,
             "discountLevels":[
@@ -24,6 +25,7 @@
       {
          "id":4,
          "title":"Mens Casual Slim Fit",
+         "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
          "price":{
             "originalPrice":15.99,
             "discountLevels":[
@@ -45,6 +47,7 @@
       {
          "id":5,
          "title":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+         "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
          "price":{
             "originalPrice":695,
             "discountLevels":[
